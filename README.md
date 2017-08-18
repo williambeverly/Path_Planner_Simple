@@ -3,7 +3,9 @@
 
 ## Usage
 A script `rr.sh` is provided to make compilation and running easy. Alternatively the user can run the following commands from terminal:
-
+* `mkdir build && cd build`
+* `cmake .. && make`
+* `./path_planning`
 
 ## Response to rubric requirements
 ### Compilation
